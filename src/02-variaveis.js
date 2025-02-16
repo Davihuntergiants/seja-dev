@@ -11,4 +11,4 @@ const qtmeses = Math.floor(dias / 30)
 console.log ("mês atual",qtmeses)
 console.log ("dia do mês", dias%30)
 console.log ("dias passados",qtmeses*30)
-
+                                                                                                                  
